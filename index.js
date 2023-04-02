@@ -1,6 +1,4 @@
-mkdir my-function
-cd my-function
-npm init -y
+
 
 exports.handler = async (event) => {
   const response = {
